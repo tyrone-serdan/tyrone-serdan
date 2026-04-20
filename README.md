@@ -5,6 +5,13 @@ focused on creating maintainable systems with a strong emphasis on structure, pe
 
 ---
 
+### reach out to me here
+- portfolio — https://imtyr.one
+- twitter (x) — https://x.com/imtyr1
+- contact — hi@imtyr.one
+
+---
+
 ### tech stack
 **core**
 - JavaScript / TypeScript
@@ -33,7 +40,7 @@ focused on creating maintainable systems with a strong emphasis on structure, pe
 
 ---
 
-### GitHub Stats
+### github stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=tyrone-serdan&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrone-serdan&layout=compact&theme=transparent)
