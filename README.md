@@ -1,7 +1,6 @@
 # hi, [imtyr.one](https://imtyr.one)
 
-i build clean, minimal, and functional web experiences.  
-focused on creating maintainable systems with a strong emphasis on structure, performance, and simplicity.
+i build things, currently discovering and finding my niche.
 
 ---
 
