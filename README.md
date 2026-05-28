@@ -1,6 +1,6 @@
 # hi, [imtyr.one](https://imtyr.one)
 
-i build things, currently discovering and finding my niche.
+i build websites, terminal applications, and electron.js apps.
 
 ---
 
